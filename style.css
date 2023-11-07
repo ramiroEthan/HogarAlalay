@@ -853,7 +853,7 @@ img {
       top: 0;
       left: 0;
       content: '';
-      background-color: rgba(97, 186, 109, 0.8);
+      background-color: rgba(207, 209, 130, 0.8);
       opacity: 0;
       visibility: hidden;
       -webkit-transition-duration: 500ms;
